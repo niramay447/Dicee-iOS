@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Test
 //
-//  Created by Angela Yu on 13/06/2019.
+//  Created by Angela Yu on 13/06/2019./Users/nir/Documents/swift/dicee/Dicee-iOS13/Dicee-iOS13/SceneDelegate.swift
 //  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
